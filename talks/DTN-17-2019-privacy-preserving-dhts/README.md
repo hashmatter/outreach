@@ -1,10 +1,11 @@
 ## Talk summary
 
-**Abstract**: Naive P2P network implementations make it easy and cheap for many parties to
-collect data about user behaviour. In this talk we motivate the importance of
+Naive P2P network implementations make it easy and relatively cheap for many parties to
+collect data about network user behaviour. In this talk we motivate the importance of
 privacy and security in P2P networks, show privacy vulnerabilities of
 Distributed Hash Tables and outline mechanisms that can be used by developers
-to enhance privacy of P2P applications.
+to enhance privacy of P2P applications. We also introduce `p3lib`, a toolbox for
+system developers to enhance privacy in P2P networks.
 
 ---
 
